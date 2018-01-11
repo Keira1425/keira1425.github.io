@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "default"
 # Site Settings
 locale                   : "en-US"
 title                    : "PSBOX"
-title_separator          : "-"
+title_separator          : "|"
 name                     : "Keira Allives"
 description              : "Personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Keira Allives"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/bio-photo.png"
   bio              : "This is my personal website."
   location         : "Hawaii"
   email            :
