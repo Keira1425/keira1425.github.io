@@ -12,10 +12,10 @@ locale                   : "en-US"
 title                    : "PSBOX"
 title_separator          : "-"
 name                     : "Keira Allives"
-description              : "Personal Website."
-url                      : "https://keira1425.github.io"
-baseurl                  : "/blog"
-repository               : "keira1425/keira1425.github.io"
+description              : "Personal website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -84,10 +84,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Keira Allives"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "This is my personal website."
+  location         : "Hawaii"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
