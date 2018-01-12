@@ -88,8 +88,8 @@ author:
   avatar           : "/assets/img/bio-photo.png"
   bio              : "This is my personal website."
   location         : "Hawaii"
-  email            :
-  uri              :
+  email            : "Keira1425@gmail.com"
+  uri              : "https://www.psbox.site"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "www.github.com/keira1425"
   gitlab           :
   google_plus      :
   keybase          :
