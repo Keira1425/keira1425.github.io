@@ -70,10 +70,10 @@
 #  url: "/search/"
 #  side: right
 
-#- title: "Contact"
+- title: "About"
+  url: "/about/"
+  side: right
+
+# - title: "Contact"
 #  url: "/contact/"
 #  side: right
-
-- title: "About"
-  url: "/blog/"
-  side: right
