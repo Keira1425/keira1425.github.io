@@ -4,7 +4,7 @@ title: "About"
 meta_title: "About Us"
 subheadline: "Keith and Mariel"
 teaser: "Our love story began ..."
-permalink: "/contact/"
+permalink: "/about/"
 ---
 . . . when we were in college. We were just ordinary classmates until when our third year came, little did I know, it'll be the beginning of my new journey. 
    Keith is a really kind person, smart, jolly and God-fearing. Many people admire him for that, and I am one of them. One day, while waiting for our next class, he shared something that I've never heard of -- the Gospel. It was hard for me that time to listen to him share his beliefs and the church he belongs to, but weeks then months went by and still, he didn't gave up on me. We became closer as time went by and we even became bestfriends. He kept on reading me scriptures, he plays the piano and sings to me church's songs, he even accompanied me to  church and even there are already missionaries teaching me, he was still there. He helped me to get closer with Our Heavenly Father and he helped me to become a better person. Thats when I knew that he is the one that I have always prayed for.
