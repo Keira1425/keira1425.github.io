@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "LOVE STORY"
 meta_title: "About Us"
 subheadline: "Keith and Mariel"
 teaser: "Our love story began ..."
